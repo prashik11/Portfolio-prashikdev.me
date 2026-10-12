@@ -47,7 +47,7 @@ function About() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h3>MERN Stack Developer & QA Engineer</h3>
+          <h3>MERN Stack Developer</h3>
 
           <p>
             I am a passionate software developer focused on building responsive,
@@ -55,14 +55,13 @@ function About() {
           </p>
 
           <p>
-            My development stack includes MongoDB, Express.js, React.js and
-            Node.js. I also have experience with Java, Selenium, API testing,
-            SQL and automation testing.
+            My development stack includes MongoDB, Express.js, React.js, GraphQL and
+            Node.js. I also have experience with Java, Selenium, SQL, Redis, Git.
           </p>
 
           <p>
             I enjoy converting ideas into real-world applications and
-            continuously improving my development and testing skills.
+            continuously improving my development skills.
           </p>
         </motion.div>
 

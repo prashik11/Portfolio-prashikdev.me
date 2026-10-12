@@ -31,7 +31,7 @@ function Hero() {
 
           <p className="hero-description">
             I build modern, responsive and scalable web applications using
-            MongoDB, Express.js, React.js and Node.js, GraphQL.
+            MongoDB, Express.js, React.js, Node.js and GraphQL.
           </p>
 
           <div className="hero-buttons">
@@ -109,6 +109,10 @@ function Hero() {
 
               <p className="double-indent">
                 <span className="green">"Node.js"</span>
+              </p>
+
+              <p className="double-indent">
+                <span className="green">"GraphQL"</span>
               </p>
 
               <p className="indent">]</p>

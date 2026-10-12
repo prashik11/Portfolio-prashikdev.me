@@ -56,8 +56,8 @@ function Skills() {
       icon: <TestTube2 />,
     },
     {
-      name: "Postman",
-      category: "API Testing",
+      name: "GraphQL",
+      category: "Backend",
       icon: <Globe />,
     },
     {

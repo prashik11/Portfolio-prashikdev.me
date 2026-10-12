@@ -583,6 +583,10 @@
   border-radius: 14px;
 }
 
+.project-card + .project-card {
+  margin-top: 24px;
+}
+
 .project-card h3,
 .timeline-card h3 {
   font-size: 22px;
